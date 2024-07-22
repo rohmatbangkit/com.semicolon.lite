@@ -74,13 +74,13 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.webviewapp"
+    namespace "com.semicolon.lite"
     defaultConfig {
-        applicationId "com.webviewapp"
+        applicationId "com.semicolon.lite"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0 Beta 1"
     }
     signingConfigs {
         debug {

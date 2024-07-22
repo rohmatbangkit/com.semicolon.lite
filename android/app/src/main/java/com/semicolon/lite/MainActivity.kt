@@ -1,4 +1,4 @@
-package com.webviewapp
+package com.semicolon.lite
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

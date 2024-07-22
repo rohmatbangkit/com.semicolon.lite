@@ -1,4 +1,4 @@
-package com.webviewapp
+package com.semicolon.lite
 
 import android.app.Application
 import com.facebook.react.PackageList
